@@ -11,7 +11,7 @@ Let's connect and build something amazing! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewodros-yirga-dtu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tewodros-Yirga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Tewodros-Yirga.github.io/tewodros-yirga/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Tewodros-Yirga.github.io/tewodros-yirga-portfolio/)
 
 ---
 
@@ -95,7 +95,7 @@ I’m a **drone enthusiast** and love exploring how technology can solve real-wo
 I’m always open to collaborating on exciting projects or discussing technology. Feel free to reach out to me via:
 - [LinkedIn](https://www.linkedin.com/in/tewodros-yirga-dtu/)
 - [GitHub](https://github.com/Tewodros-Yirga)
-- [Portfolio](https://Tewodros-Yirga.github.io/tewodros-yirga/)
+- [Portfolio](https://Tewodros-Yirga.github.io/tewodros-yirga-portfolio/)
 
 ---
 
