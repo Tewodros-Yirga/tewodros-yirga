@@ -2,7 +2,7 @@
 
 **🚀 Software Engineer | Full Stack Developer**
 
-I am a **Software Engineer** and **Full Stack Developer** with a strong passion for problem-solving, web development, and emerging technologies like AI. I graduated **1st** from **Gafat Institute of Technology (GIT), Debre Tabor University**, where I specialized in **software development and engineering**.  
+I am a **Software Engineer** and **Full Stack Developer** with a strong passion for problem-solving, web development, and emerging technologies like AI and Drone. I graduated by being **1st** from **Gafat Institute of Technology (GIT), Debre Tabor University**, where I specialized in **software development and engineering**.  
 
 With expertise in the **MERN stack (MongoDB, Express.js, React, Node.js)**, I have hands-on experience designing and developing **scalable, high-performance web applications**. I thrive on building innovative solutions, optimizing code efficiency, and staying ahead in the ever-evolving tech landscape.  
 
